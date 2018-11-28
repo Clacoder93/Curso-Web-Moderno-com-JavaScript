@@ -20,3 +20,4 @@ console.log(subtracao(2, 3))
 const imprirmir2 = a => console.log(a)
 
 imprirmir2('LEGAL!!!!!')
+
