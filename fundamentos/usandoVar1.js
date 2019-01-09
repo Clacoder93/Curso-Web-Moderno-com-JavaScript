@@ -2,12 +2,13 @@
     {
         {
             {
-                var sera = 'Será???'
+                var sera = 'Será???Mesmo?'
                 console.log(sera)
             }
         }
     }
 }
+sera = "Será mesmo??"
 
 console.log(sera)
 
