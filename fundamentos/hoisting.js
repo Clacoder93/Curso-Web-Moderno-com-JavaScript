@@ -5,3 +5,5 @@ console.log('a= ', a)
 console.log('b= ', b)
 let b = 4
 console.log('b= ', b)
+
+//o Içamento só ocorre
