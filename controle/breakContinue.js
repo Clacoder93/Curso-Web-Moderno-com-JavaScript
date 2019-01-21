@@ -13,5 +13,4 @@ for(let y in nums){
 for(let z in nums){
     if(z==5) continue
     console.log(`${z} = ${nums[z]}`);
-    
 }
